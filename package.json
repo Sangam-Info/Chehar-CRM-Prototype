@@ -1,0 +1,13 @@
+{
+  "name": "chehar-crm-prototype",
+  "version": "1.4.0",
+  "private": true,
+  "description": "Chehar CRM prototype — Sangam InfoAnalytics",
+  "scripts": {
+    "dev": "wrangler dev",
+    "deploy": "wrangler deploy"
+  },
+  "devDependencies": {
+    "wrangler": "^4.30.0"
+  }
+}
